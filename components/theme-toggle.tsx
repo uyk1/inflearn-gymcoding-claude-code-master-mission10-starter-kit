@@ -16,7 +16,7 @@ export function ThemeToggle() {
 
   if (!mounted) {
     // 마운트 전에도 같은 크기를 차지해 레이아웃이 밀리지 않게 합니다
-    return <div className="h-9 w-9" />;
+    return <div className="size-8" />;
   }
 
   return (
