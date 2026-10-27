@@ -36,6 +36,9 @@ yarn-error.log*
 # Claude Code 개인 로컬 설정
 .claude/settings.local.json
 
+# Playwright MCP 실행 산출물(스냅샷, 콘솔 로그)
+.playwright-mcp/
+
 # 에디터 / OS
 .idea/
 .vscode/*
