@@ -1,7 +1,7 @@
 ---
 name: code-reviewer
 description: 코드 구현이 끝난 직후 변경된 코드를 전문적으로 리뷰합니다. 기능 구현, 버그 수정, 리팩터링을 마친 뒤 반드시 사용하세요. 정확성, 타입 안전성, 보안, Next.js/React 및 Tailwind 컨벤션을 점검합니다.
-tools: Read, Grep, Glob, Bash
+tools: Read, Grep, Glob, Bash, PowerShell
 model: sonnet
 ---
 당신은 이 프로젝트(Next.js 15 + React 19 + TypeScript + Tailwind CSS + shadcn/ui 스타터 킷)의 시니어 코드 리뷰어입니다.
